@@ -1,0 +1,20 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Creating an EC2 instance with cloudformation with security group for RDP and HTTPS access
+Resources:  
+  InstanceSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: Enable RDP access
+      SecurityGroupIngress:
+       -  IpProtocol: tcp
+          FromPort: 3389
+          ToPort: 3389
+          CidrIp: 0.0.0.0/0
+  MyEC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      ImageId: ami-0888db1202897905c 
+      InstanceType: t2.micro 
+      SecurityGroups:
+        - !Ref InstanceSecurityGroup
+      KeyName: myproject1

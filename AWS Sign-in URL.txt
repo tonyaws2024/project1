@@ -1,0 +1,9 @@
+Sign-in URL 
+
+https://tonysimpson.signin.aws.amazon.com/console
+
+user:   	tony
+
+password:	*123asdf
+
+
