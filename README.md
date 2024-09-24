@@ -18,9 +18,9 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service offering 
 
 ![Image Alt](https://github.com/tonyaws2024/project1/blob/c4d033b75fcd18f99955df3fe2463a4aa3dac69c/Screenshot%20of%20S3%20buckets.jpg)
 
-#### HTML script for static website
+#### HTML script for static website hosted in S3
 
-![Image Alt]()
+![Image Alt](https://github.com/tonyaws2024/project1/blob/44169d5bf4c689c4046600647e7cfbe8d11af3a1/HTML%20Script%20for%20the%20static%20website%20hosted%20in%20S3%20bucket.jpg)
 
 ### EC2
 
