@@ -24,7 +24,9 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing
 
 ![Image Alt](https://github.com/tonyaws2024/project1/blob/9eaa32aebb8b4cb8eaa1dee318feafcca165a99d/Screenshot%20of%20EC2%20instances.jpg)
 
+#### Cloud Formation Code for launching the EC2 web server
 
+![Image Alt](https://github.com/tonyaws2024/project1/blob/9cee273fcb596ae2448d931a1c776a49ad1d3956/Cloud%20Formation%20Code%20for%20EC%202.jpg)
 
 #### Remote Desktop Access to EC2 instance launced with cloudformation
 
