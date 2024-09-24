@@ -22,3 +22,4 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service offering 
 
 Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing capacity in the Amazon Web Services (AWS) Cloud. Using Amazon EC2 reduces hardware costs so you can develop and deploy applications faster. You can use Amazon EC2 to launch as many or as few virtual servers as you need, configure security and networking, and manage storage. You can add capacity (scale up) to handle compute-heavy tasks, such as monthly or yearly processes, or spikes in website traffic. When usage decreases, you can reduce capacity (scale down) again.
 
+![Image Alt](https://github.com/tonyaws2024/project1/blob/9eaa32aebb8b4cb8eaa1dee318feafcca165a99d/Screenshot%20of%20EC2%20instances.jpg)
