@@ -24,7 +24,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service offering 
 
 #### Front End of website hosted in S3
 
-[Your link here] (http://tonys3bucket.s3-website-us-east-1.amazonaws.com)
+[Your Link Here] (http://tonys3bucket.s3-website-us-east-1.amazonaws.com)
 
 ### EC2
 
