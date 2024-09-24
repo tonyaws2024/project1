@@ -28,4 +28,8 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing
 
 You can connect to Amazon EC2 instances created from most Windows Amazon Machine Images (AMIs) using Remote Desktop. Remote Desktop uses the Remote Desktop Protocol (RDP) to connect to and use your instance in the same way you use a computer sitting in front of you.
 
-![Image Alt]()
+I used a key pair named **myproject1.pem** to generate a password for the remote desktop connection
+
+![Image Alt](https://github.com/tonyaws2024/project1/blob/df8624f3e5297165a9f66aea88b0b746fac1cd86/RDP%20connection.jpg)
+
+
