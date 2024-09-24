@@ -32,7 +32,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing
 
 An IAM role is an IAM identity that you can create in your account that has specific permissions. An IAM role is similar to an IAM user, in that it is an AWS identity with permission policies that determine what the identity can and cannot do in AWS. However, instead of being uniquely associated with one person, a role is intended to be assumable by anyone who needs it. Also, a role does not have standard long-term credentials such as a password or access keys associated with it. Instead, when you assume a role, it provides you with temporary security credentials for your role session. You can use roles to delegate access to users, applications, or services that don't normally have access to your AWS resources
 
-![Image Alt]()
+![Image Alt](https://github.com/tonyaws2024/project1/blob/1e6142f0693225550cdb1450e2561aeb2a59dc97/roles.jpg)
 
 #### Cloud Formation Code for launching the EC2 web server
 
@@ -49,6 +49,11 @@ I used a key pair named **myproject1.pem** to generate a password for the remote
 ### Serverless Systems
 
 Serverless computing is an application development model where you can build and deploy applications on third-party managed server infrastructure. All applications require servers to run. But in the serverless model, a cloud provider manages the routine work; they provision, scale, and maintain the underlying infrastructure. The cloud provider handles several tasks, such as operating system management, security patches, file system and capacity management, load balancing, monitoring, and logging. As a result, developers can focus on application design and still receive the benefits of cost-effective, efficient, and massively scalable server infrastructure.
+I built a simple serverless system that receives orders and process them
+
+#### Python code for submitting orders
+
+#### Python code for processing orders
 
 
 
