@@ -32,7 +32,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing
 
 An IAM role is an IAM identity that you can create in your account that has specific permissions. An IAM role is similar to an IAM user, in that it is an AWS identity with permission policies that determine what the identity can and cannot do in AWS. However, instead of being uniquely associated with one person, a role is intended to be assumable by anyone who needs it. Also, a role does not have standard long-term credentials such as a password or access keys associated with it. Instead, when you assume a role, it provides you with temporary security credentials for your role session. You can use roles to delegate access to users, applications, or services that don't normally have access to your AWS resources
 
-
+![Image Alt]()
 
 #### Cloud Formation Code for launching the EC2 web server
 
