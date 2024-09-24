@@ -49,11 +49,16 @@ I used a key pair named **myproject1.pem** to generate a password for the remote
 ### Serverless Systems
 
 Serverless computing is an application development model where you can build and deploy applications on third-party managed server infrastructure. All applications require servers to run. But in the serverless model, a cloud provider manages the routine work; they provision, scale, and maintain the underlying infrastructure. The cloud provider handles several tasks, such as operating system management, security patches, file system and capacity management, load balancing, monitoring, and logging. As a result, developers can focus on application design and still receive the benefits of cost-effective, efficient, and massively scalable server infrastructure.
+
 I built a simple serverless system that receives orders and process them
 
 #### Python code for submitting orders
 
+![Image Alt](https://github.com/tonyaws2024/project1/blob/1cac31830e0346796d23027ab42ac7941f5a1098/submit%20order.jpg)
+
 #### Python code for processing orders
+
+![Image Alt](https://github.com/tonyaws2024/project1/blob/1cac31830e0346796d23027ab42ac7941f5a1098/Process%20order.jpg)
 
 
 
